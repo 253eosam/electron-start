@@ -1,5 +1,11 @@
 # electron-start
 
+## start mechanism Electron
+
+1. First build react app
+
+2. then play electron app. (show changed view)
+
 ## Env version
 
 node
