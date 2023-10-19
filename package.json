@@ -1,0 +1,22 @@
+{
+  "name": "electron-start",
+  "version": "1.0.0",
+  "description": "Hello world~!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/253eosam/electron-start.git"
+  },
+  "author": "Sungjun Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/253eosam/electron-start/issues"
+  },
+  "homepage": "https://github.com/253eosam/electron-start#readme",
+  "devDependencies": {
+    "electron": "^27.0.1"
+  }
+}
