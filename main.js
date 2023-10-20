@@ -16,7 +16,8 @@ function createWindow() {
   });
 
   // Load your React app's HTML file.
-  const appUrl = isDev ? 'http://localhost:3000' : `file://${path.join(__dirname, 'build', 'index.html')}`;
+  // const appUrl = isDev ? 'https://dev.askyour.trade/login' : `file://${path.join(__dirname, 'build', 'index.html')}`;
+  const appUrl = 'https://253eosam.oopy.io'
   
   console.log("[🚀 253eosam] |  file: main.js:21 |  createWindow |  appUrl:", appUrl)
   mainWindow.loadURL(appUrl);
